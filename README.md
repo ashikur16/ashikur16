@@ -2,13 +2,12 @@
 ## I'm a Software Engineer with a passion for developing **iOS mobile applications** and hands-on experience with Python frameworks such as **Odoo**.
 
 ### Skills / Tech Stack:
-
-**Languages:** Swift, Python, Java, C, C++, HTML, CSS  
-**Frameworks:** UIKit, SwiftUI, Odoo, Django  
-**Tools:** Xcode, Git, Redmine, PostgreSQL  
-**Machine Learning**  
-**Digital Image Processing**  
-**Power Platform Fundamentals**
+- **Languages:** Swift, Python, Java, C, C++, HTML, CSS  
+- **Frameworks:** UIKit, SwiftUI, Odoo, Django  
+- **Tools:** Xcode, Git, Redmine, PostgreSQL  
+- **Machine Learning**  
+- **Digital Image Processing**  
+- **Power Platform Fundamentals**
 
 ### 🎓 Education:
 - **B.Sc. in Computer Science and Engineering**  
