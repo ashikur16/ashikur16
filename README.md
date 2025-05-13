@@ -10,6 +10,15 @@
 **Digital Image Processing**  
 **Power Platform Fundamentals**
 
+### 🎓 Education:
+B.Sc. in Computer Science and Engineering
+East West University
+Major: Data Science and Artificial Intelligence
+Capstone: Masked Face Recognition Using Deep Learning
+
+### 💼 Experience:
+- Software Engineer at **BJIT** Limited
+
 ### 🚀 Projects:
 
 - [**Custom Video Player Package**](https://github.com/ashikur16/VideoPlayer): This package enables video playback in iOS apps, supporting both live and pre-recorded content. Built using Swift, UIKit, and AVKit, it includes features like a mini player, buffer indicators, speed controls, preview, auto-play, and more. Version control is managed via GitHub.
@@ -17,7 +26,20 @@
 - [**News App**](https://github.com/ashikur16/NewsApp): A news app built with Swift, available in UIKit and SwiftUI versions, featuring article search, viewing, and bookmarking — [UIKit](https://github.com/ashikur16/NewsApp) | [SwiftUI](https://github.com/ashikur16/NewsApp-SwiftUI)
 - [**Billboard Advertisement System**](https://github.com/Samir529/Billboard-Advertisement-System): The platform allows billboard owners to post advertisements with comprehensive details, while customers can easily browse and select the billboard that best suits their needs. I was one of the contributors to this project.
 
-### 🚀 Certificates:
+### 📚 Publications:
+1. **Flower Recognition Using VGG16**  
+   *Springer (ICIPCN 2022: Third International Conference on Image Processing and Capsule Networks)*  
+   DOI: [10.1007/978-3-031-12413-6_59](https://doi.org/10.1007/978-3-031-12413-6_59)  
+   Online ISBN: 978-3-031-12413-6  
+   Date: 29/07/2022
+
+2. **A Sustainable Approach to Reduce Power Consumption and Harmful Effects of Cellular Base Stations**  
+   *Springer (ICO-2022 Conference)*  
+   DOI: [10.1007/978-3-031-19958-5_66](https://doi.org/10.1007/978-3-031-19958-5_66)  
+   Online ISBN: 978-3-031-19958-5  
+   Date: 21/10/2022
+
+### 🏅 Certificates:
 - [**Microsoft Certified: Power Platform Fundamentals**](https://learn.microsoft.com/en-us/users/mdashikurrahman-0932/credentials/be19db6319f6a55c): Provided by **Microsoft**
 - [**MVVM Design Pattern Using Swift in iOS**](https://www.udemy.com/certificate/UC-9c29f0b6-5419-450f-916f-32961fa7456b/): Provided by Udemy
 - [**Unit Testing Swift Mobile App**](https://www.udemy.com/certificate/UC-7b2b1c2a-eda2-432c-9271-8fe9d25aa121/): Provided by Udemy
