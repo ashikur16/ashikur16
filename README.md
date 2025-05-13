@@ -17,6 +17,12 @@
 - [**News App**](https://github.com/ashikur16/NewsApp): A news app built with Swift, available in UIKit and SwiftUI versions, featuring article search, viewing, and bookmarking — [UIKit](https://github.com/ashikur16/NewsApp) | [SwiftUI](https://github.com/ashikur16/NewsApp-SwiftUI)
 - [**Billboard Advertisement System**](https://github.com/Samir529/Billboard-Advertisement-System): The platform allows billboard owners to post advertisements with comprehensive details, while customers can easily browse and select the billboard that best suits their needs. I was one of the contributors to this project.
 
+### 🚀 Certificates:
+- [**Microsoft Certified: Power Platform Fundamentals**](https://learn.microsoft.com/en-us/users/mdashikurrahman-0932/credentials/be19db6319f6a55c): Provided by **Microsoft**
+- [**MVVM Design Pattern Using Swift in iOS**](https://www.udemy.com/certificate/UC-9c29f0b6-5419-450f-916f-32961fa7456b/): Provided by Udemy
+- [**Unit Testing Swift Mobile App**](https://www.udemy.com/certificate/UC-7b2b1c2a-eda2-432c-9271-8fe9d25aa121/): Provided by Udemy
+
+
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-ashikur-rahman-008196215/)
