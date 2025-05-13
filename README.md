@@ -11,10 +11,10 @@
 **Power Platform Fundamentals**
 
 ### 🎓 Education:
-B.Sc. in Computer Science and Engineering
-East West University
-Major: Data Science and Artificial Intelligence
-Capstone: Masked Face Recognition Using Deep Learning
+- **B.Sc. in Computer Science and Engineering**  
+  *East West University*  
+  Major: Data Science and Artificial Intelligence  
+  Capstone: Masked Face Recognition Using Deep Learning
 
 ### 💼 Experience:
 - Software Engineer at **BJIT** Limited
