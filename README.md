@@ -15,7 +15,7 @@
 - **B.Sc. in Computer Science and Engineering**  
   *East West University*  
   Major: Data Science and Artificial Intelligence  
-  Capstone: Masked Face Recognition Using Deep Learning
+  Capstone: Masked Face Recognition Using Deep Learning  
   Passing Year: 2022
 
 - **Higher Secondary Certificate (HSC)**  
