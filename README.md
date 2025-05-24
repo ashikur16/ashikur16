@@ -79,20 +79,20 @@
    Date: 21/10/2022
 
 ### 🏆 Awards:
-1. **Cum Laude Award**
-   *East West University*
-   An Academic achievement based on CGPA during convocation.
-   (Issued by EWU in 2023).
+1. **Cum Laude Award**  
+   *East West University*  
+   An academic achievement based on CGPA during convocation.  
+   (Issued by EWU in 2023).  
 
-3. **Merit Scholarship**
-   *East West University*
-   Awarded Merit Scholarship of full tuition waiver for excellent academic performance.
-   (Issued by EWU in 2021).
+2. **Merit Scholarship**  
+   *East West University*  
+   Awarded Merit Scholarship of full tuition waiver for excellent academic performance.  
+   (Issued by EWU in 2021).  
 
-4. Medha Lalon Fund Scholarship (Dean's List)
-   *East West University*
-   Awarded Medha Lalon Scholarship (Dean’s List) 2 times for meritorious result
-   (Issued by EWU in 2019 and 2020).
+3. **Medha Lalon Fund Scholarship (Dean's List)**  
+   *East West University*  
+   Awarded Medha Lalon Scholarship (Dean’s List) 2 times for meritorious result.  
+   (Issued by EWU in 2019 and 2020).  
 
 ### 🏅 Certificates:
 - [**Microsoft Certified: Power Platform Fundamentals**](https://learn.microsoft.com/en-us/users/mdashikurrahman-0932/credentials/be19db6319f6a55c): Provided by **Microsoft**
