@@ -44,7 +44,7 @@
 
 - [**BJIT ERP**](https://erp.bjitgroup.com/web/login): Migrated BJIT ERP System from **Odoo11** to **Odoo16**. Also customized existing modules and built modules from scratch. Worked in different modules like Inventory, Purchase, CRM, Attendance, Lunch, Employees, Asset Management, Gate Pass, Support, etc. Technologies used: Python, Odoo, QWeb, PostgreSQL, SQL, HTML, CSS.
 
-#### 💼 Web App:
+#### 🌐 Web Application:
 
 - [**Billboard Advertisement System**](https://github.com/Samir529/Billboard-Advertisement-System): The platform allows billboard owners to post advertisements with comprehensive details, while customers can easily browse and select the billboard that best suits their needs. I was one of the contributors to this project. Technologies used: Python, Django, HTML, CSS, GitHub.
 - [**Gold Bank Management System**](https://github.com/Samir529/Gold-Bank-Management-System): This is a gold based banking system. Price of gold is not constant, it increases time to time and also decrease sometimes. In this banking system, user will keep some money in the bank and the value of that money will be converted as the price of gold. If the price of gold increases in the market, then the given amount of the customers will be increase according to the price of gold and vice versa. I was one of the contributors to this project. Technologies used: Python, Django, HTML, CSS, GitHub.
@@ -53,7 +53,7 @@
 
 - [**Heart Attack Risk Prediction**](https://github.com/ashikur16/Heart_Attack_Risk_prediction_Using_Neural_Network): A Neural Network based Heart Attack Risk Prediction. The machine learning model can make prediction with 80% accuracy. Technologies used: Python, Machine Learning.
 
-#### 🧠 Android App Development:
+#### 📱 Android App Development:
 
 - [**Online GD**](https://github.com/ashikur16/Online-GD): Normal Citizens will be able to apply for general diaries according to police station. Police officers will see the GD according to their police station and they are allowed to accept and reject the applied general diaries. I was one of the contributors to this project. Technologies used: Java, Android App Development, Android Studio.
 
