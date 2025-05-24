@@ -20,7 +20,7 @@
 
 - **Higher Secondary Certificate (HSC)**  
   *Govt. Science College*  
-  Group: Science 
+  Group: Science  
   Passing Year: 2017
 
 - **Secondary School Certificate (SSC)**  
