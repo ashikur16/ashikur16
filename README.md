@@ -7,7 +7,7 @@
 - **Machine Learning**  
 - **Digital Image Processing**  
 - **Power Platform Fundamentals**
-- **Languages:** Swift, Python, Java, C, C++, SQL, HTML, CSS  
+- **Languages:** Swift, Python, Java, C, C++, Objective-C, SQL, HTML, CSS  
 - **Frameworks:** UIKit, SwiftUI, Odoo, Django
 - **Tools:** Xcode, PyCharm, Git, Redmine, PostgreSQL
 
@@ -19,6 +19,7 @@
 
 ### 💼 Experience:
 - Software Engineer at **BJIT** Limited
+- Trainee Software Engineer at BJIT Academy
 
 ### 🚀 Projects:
 
@@ -44,6 +45,10 @@
 - [**Microsoft Certified: Power Platform Fundamentals**](https://learn.microsoft.com/en-us/users/mdashikurrahman-0932/credentials/be19db6319f6a55c): Provided by **Microsoft**
 - [**MVVM Design Pattern Using Swift in iOS**](https://www.udemy.com/certificate/UC-9c29f0b6-5419-450f-916f-32961fa7456b/): Provided by Udemy
 - [**Unit Testing Swift Mobile App**](https://www.udemy.com/certificate/UC-7b2b1c2a-eda2-432c-9271-8fe9d25aa121/): Provided by Udemy
+- [**Merit Scholarship Certificate Summer 2021**](https://drive.google.com/file/d/1Ex7V1ATChRdU6y4KhuuIiZXF-q80_Y6_/view): Issued by East West University
+- [**Certificate of Presentation on 3rd International Conference on Image Processing and Capsule Networks (ICIPCN-2022)**](https://drive.google.com/file/d/1otgOHlHwvDgWnlOEBV6b0PTfqm_qiJw0/view): Issued by ICIPCN
+- [**Certificate of Participation on IEEE CS BDC Summer Symposium 2022**](https://drive.google.com/file/d/1mydfX9-xoSc19E5TcTMQ4kTcLhM82-P4/view): Issued by IEEE
+- [**Certificate of Appreciation on 5th International Conference on Intelligent Computing & Optimization 2022**](https://drive.google.com/file/d/1ixMiy_uwk4b2xJB12-YdS9Hsum5bQRwO/view): Provided by ICO
 
 
 ### 📫 Connect with me
