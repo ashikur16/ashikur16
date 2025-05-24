@@ -23,9 +23,9 @@
   Group: Science
   Passing Year: 2017
 
-- **Secondary School Certificate (SSC)**
+- **Secondary School Certificate (SSC)**  
   *Jatrabari Ideal School and College*  
-  Group: Science
+  Group: Science  
   Passing Year: 2015
 
 ### 💼 Experience:
@@ -36,26 +36,34 @@
 
 #### 📱 iOS App Development:
 
-- [**Custom Video Player Package**](https://github.com/ashikur16/VideoPlayer): This package enables video playback in iOS apps, supporting both live and pre-recorded content. It includes features like a mini player, buffer indicators, speed controls, preview, auto-play, and more. Version control is managed via GitHub. Technologies used: Swift, UIKit, AVKit, GitHub.
-- [**Cricket info**](https://github.com/ashikur16/Cricket-info): This iOS app provides users with live match scores, recent match updates, squad details, match info, scoreboards, fixtures, player search, team rankings, and player statistics. The app follows the MVVM design pattern for clean and scalable architecture. Technologies used: Swift, UIKit, CoreData, Cricket API, MVVM design pattern.
-- [**News App**](https://github.com/ashikur16/NewsApp): A news app built with Swift, available in UIKit and SwiftUI versions, featuring article search, viewing, and bookmarking — [UIKit](https://github.com/ashikur16/NewsApp) | [SwiftUI](https://github.com/ashikur16/NewsApp-SwiftUI). Technologies used: UIKit/SwiftUI, Swift, CoreData, API.
+- [**Custom Video Player Package**](https://github.com/ashikur16/VideoPlayer): This package enables video playback in iOS apps, supporting both live and pre-recorded content. It includes features like a mini player, buffer indicators, speed controls, preview, auto-play, and more. Version control is managed via GitHub.
+**Technologies used: Swift, UIKit, AVKit, GitHub.**
+- [**Cricket info**](https://github.com/ashikur16/Cricket-info): This iOS app provides users with live match scores, recent match updates, squad details, match info, scoreboards, fixtures, player search, team rankings, and player statistics. The app follows the MVVM design pattern for clean and scalable architecture.
+**Technologies used: Swift, UIKit, CoreData, Cricket API, MVVM design pattern.**
+- [**News App**](https://github.com/ashikur16/NewsApp): A news app built with Swift, available in UIKit and SwiftUI versions, featuring article search, viewing, and bookmarking — [UIKit](https://github.com/ashikur16/NewsApp) | [SwiftUI](https://github.com/ashikur16/NewsApp-SwiftUI).
+**Technologies used: UIKit/SwiftUI, Swift, CoreData, API.**
 
 #### 💼 ERP System:
 
-- [**BJIT ERP**](https://erp.bjitgroup.com/web/login): Migrated BJIT ERP System from **Odoo11** to **Odoo16**. Also customized existing modules and built modules from scratch. Worked in different modules like Inventory, Purchase, CRM, Attendance, Lunch, Employees, Asset Management, Gate Pass, Support, etc. Technologies used: Python, Odoo, QWeb, PostgreSQL, SQL, HTML, CSS.
+- [**BJIT ERP**](https://erp.bjitgroup.com/web/login): Migrated BJIT ERP System from **Odoo11** to **Odoo16**. Also customized existing modules and built modules from scratch. Worked in different modules like Inventory, Purchase, CRM, Attendance, Lunch, Employees, Asset Management, Gate Pass, Support, etc.
+**Technologies used: Python, Odoo, QWeb, PostgreSQL, SQL, HTML, CSS.**
 
 #### 🌐 Web Application:
 
-- [**Billboard Advertisement System**](https://github.com/Samir529/Billboard-Advertisement-System): The platform allows billboard owners to post advertisements with comprehensive details, while customers can easily browse and select the billboard that best suits their needs. I was one of the contributors to this project. Technologies used: Python, Django, HTML, CSS, GitHub.
-- [**Gold Bank Management System**](https://github.com/Samir529/Gold-Bank-Management-System): This is a gold based banking system. Price of gold is not constant, it increases time to time and also decrease sometimes. In this banking system, user will keep some money in the bank and the value of that money will be converted as the price of gold. If the price of gold increases in the market, then the given amount of the customers will be increase according to the price of gold and vice versa. I was one of the contributors to this project. Technologies used: Python, Django, HTML, CSS, GitHub.
+- [**Billboard Advertisement System**](https://github.com/Samir529/Billboard-Advertisement-System): The platform allows billboard owners to post advertisements with comprehensive details, while customers can easily browse and select the billboard that best suits their needs. I was one of the contributors to this project.
+**Technologies used: Python, Django, HTML, CSS, GitHub.**
+- [**Gold Bank Management System**](https://github.com/Samir529/Gold-Bank-Management-System): This is a gold based banking system. Price of gold is not constant, it increases time to time and also decrease sometimes. In this banking system, user will keep some money in the bank and the value of that money will be converted as the price of gold. If the price of gold increases in the market, then the given amount of the customers will be increase according to the price of gold and vice versa. I was one of the contributors to this project.
+**Technologies used: Python, Django, HTML, CSS, GitHub.**
 
 #### 🧠 Machine Learning & Data Science:
 
-- [**Heart Attack Risk Prediction**](https://github.com/ashikur16/Heart_Attack_Risk_prediction_Using_Neural_Network): A Neural Network based Heart Attack Risk Prediction. The machine learning model can make prediction with 80% accuracy. Technologies used: Python, Machine Learning.
+- [**Heart Attack Risk Prediction**](https://github.com/ashikur16/Heart_Attack_Risk_prediction_Using_Neural_Network): A Neural Network based Heart Attack Risk Prediction. The machine learning model can make prediction with 80% accuracy.
+**Technologies used: Python, Machine Learning.**
 
 #### 📱 Android App Development:
 
-- [**Online GD**](https://github.com/ashikur16/Online-GD): Normal Citizens will be able to apply for general diaries according to police station. Police officers will see the GD according to their police station and they are allowed to accept and reject the applied general diaries. I was one of the contributors to this project. Technologies used: Java, Android App Development, Android Studio.
+- [**Online GD**](https://github.com/ashikur16/Online-GD): Normal Citizens will be able to apply for general diaries according to police station. Police officers will see the GD according to their police station and they are allowed to accept and reject the applied general diaries. I was one of the contributors to this project.
+**Technologies used: Java, Android App Development, Android Studio.**
 
 ### 📚 Publications:
 1. **Flower Recognition Using VGG16**  
